@@ -69,7 +69,7 @@ If you prefer, you can run **#matrix** on GCP:
 ## On Heroku
 If you prefer, you can run **#matrix** in Heroku: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ResultadosDigitais/matrix)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MelissaSouza/CriacaoMatrix)
 
 
 ## Environments
@@ -78,7 +78,7 @@ The **#matrix** project has some environments that important to define.
 
 1. We are using Google to authorizations, you need create a credential [here](https://developers.google.com/identity/sign-in/web/sign-in) and before define this:
 
-		GOOGLE_CREDENTIAL=${paste_your_credention_here}
+		GOOGLE_CREDENTIAL=${573684003355-suis8cf0h1e0941h2cl75g7o18k559gv.apps.googleusercontent.com}
 
 2. If you are running with ssl It's important to configure SSL, to define this:
 
