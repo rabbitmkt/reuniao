@@ -31,7 +31,9 @@ const createRoomFileSync = () => {
     "Núcleo 3",
 	"Núcleo 4",
 	"Núcleo 5",
-	"Reunião Geral",
+	"Redação",
+	"Reunião 1",
+	"Reunião 2",
 
   ];
 
