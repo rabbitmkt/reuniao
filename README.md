@@ -69,7 +69,7 @@ If you prefer, you can run **#matrix** on GCP:
 ## On Heroku
 If you prefer, you can run **#matrix** in Heroku: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MelissaSouza/ReuniaoMatrix)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rabbitmkt/reuniao)
 
 
 ## Environments
