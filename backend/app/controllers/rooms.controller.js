@@ -21,7 +21,7 @@ const createRoomFileSync = () => {
 
   roomsData[0] = {
     id: uuid(),
-    name: "Bem-Vindo(a) - Salas de Reunião",
+    name: "Bem-Vindo(a) - Grupo Rabbit",
     disableMeeting: true,
   };
 
