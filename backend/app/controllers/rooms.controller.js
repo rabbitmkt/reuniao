@@ -26,13 +26,20 @@ const createRoomFileSync = () => {
   };
 
   const niceNames = [
-    "Dep. Criação",
-    "Dep. Digital",
-    "Dep. Comercial",
+    "Criação - Núcleo 1",
+    "Criação - Núcleo 2",
+    "Criação - Núcleo 3",
+    "Criação - Núcleo 4",
+    "Criação - Núcleo 5",
+    "Criação - Núcleo 7",
+    "Redação",
+    "Rabbit Digital",
     "GRs Rabbit",
     "Sala de Reunião 1",
     "Sala de Reunião 2",
     "Sala de Reunião 3",
+    "Sala de Reunião 4",
+    "Sala de Reunião 5",
   ];
 
   for (const niceName of niceNames) {
